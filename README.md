@@ -1,5 +1,7 @@
 # Wan 2.7 Image — Free AI Text to Image Generator
 
+[中文](README-CN.md) [English](README.md)
+
 > Online AI image generation tool powered by Alibaba's Wan 2.7 model. Generate stunning images from text prompts — no GPU, no signup required to try.
 
 **Live Demo:** [wan27.xyz](https://www.wan27.xyz)
