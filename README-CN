@@ -1,0 +1,43 @@
+
+# Wan 2.7 Image — 免费在线 AI 文生图工具
+
+> 基于阿里巴巴 Wan 2.7 模型的在线 AI 图片生成工具。文字描述即可生成精美图片 — 无需 GPU，免费体验。
+
+**在线体验：** [wan27.xyz](https://www.wan27.xyz)
+
+## Wan 2.7 Image 是什么？
+
+Wan 2.7 Image（通义万相 2.7）是阿里巴巴通义万相团队于 2026 年 4 月发布的最新 AI 图像生成模型，支持：
+
+- **文生图** — 描述任意场景，生成高质量图片
+- **图生图** — 用自然语言编辑已有照片
+- **4K 超高清** — Wan 2.7 Image Pro 支持最高 4K 分辨率输出
+- **思考模式** — AI 深入理解提示词，生成更精准的结果
+- **文字渲染** — 在图片中精准渲染文字（海报、Logo 等）
+
+## 功能亮点
+
+- 免费开始 — 每日赠送积分，无需付费即可创作
+- 无需 GPU — 浏览器即用，无需本地部署
+- 多模型支持 — Wan 2.7、Seedream 4、Flux 2、Gemini 等
+- 图片编辑 — 用文字描述即可修改背景、风格和元素
+- 商用授权 — 付费方案包含商用许可
+- 双语支持 — 英文和中文界面
+
+## 技术栈
+
+本项目基于 [ShipAny](https://shipany.ai) SaaS 模板构建：
+
+- **框架：** Next.js 16（App Router + Turbopack）
+- **UI：** React 19 + Radix UI + Tailwind CSS 4
+- **数据库：** Turso (libSQL) + Drizzle ORM
+- **认证：** Better-Auth（邮箱 + Google OAuth）
+- **AI：** Vercel AI SDK + Replicate + Fal.ai + Gemini
+- **支付：** Stripe / PayPal / Creem
+- **部署：** Vercel
+
+## 快速链接
+
+- 🌐 官网：[www.wan27.xyz](https://www.wan27.xyz)
+- 🤖 免费体验：[AI 图片生成器](https://www.wan27.xyz)
+- 💰 定价：[方案与积分](https://www.wan27.xyz/pricing)
